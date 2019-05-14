@@ -1,0 +1,23 @@
+{
+    "name": "girlcode-javascript-workshop-extensions",
+    "displayName": "Girlcode 2019 Javascript Workshop Extensions",
+    "description": "Extensions to be used in the JavaScript workshop for GirlCode 2019",
+    "publisher": "entelect-software",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "bierner.emojisense", 
+        "CoenraadS.bracket-pair-colorizer", 
+        "esbenp.prettier-vscode", 
+        "streetsidesoftware.code-spell-checker", 
+        "vscode-icons-team.vscode-icons", 
+        "waderyan.nodejs-extension-pack", 
+        "xabikos.JavaScriptSnippets"
+    ],
+    "icon": "gc.png"
+}

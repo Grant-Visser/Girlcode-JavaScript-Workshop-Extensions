@@ -3,7 +3,7 @@
   "displayName": "Girlcode 2019 Javascript Workshop Extensions",
   "description": "Extensions to be used in the JavaScript workshop for GirlCode 2019",
   "publisher": "entelect-software",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.30.0"
   },

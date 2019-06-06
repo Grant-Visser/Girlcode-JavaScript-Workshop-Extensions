@@ -6,4 +6,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-- Initial release
+- Nothing
+
+## v0.1.0
+
+- Fix - Changes dependency on vsCode version to work with vsCode v1.30 and above to reduce update issues
+- Added - Smoothtype
+- Added - Improved intellisense
+- Added - CSS Class autocompletion

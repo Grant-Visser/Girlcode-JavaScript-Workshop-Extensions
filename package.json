@@ -17,6 +17,10 @@
     "streetsidesoftware.code-spell-checker",
     "vscode-icons-team.vscode-icons",
     "waderyan.nodejs-extension-pack",
+    "xabikos.JavaScriptSnippets",
+    "spikespaz.vscode-smoothtype",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "Zignd.html-css-class-completion"
   ],
   "icon": "gc.png"
 }

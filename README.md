@@ -8,7 +8,7 @@ This package will install the extensions required for the Girlcode Javascript wo
 * Prettier
 * JavaScript code snippets
 * Visual Studio IntelliCode
-* Brakcet Pair Colorizer
+* Bracket Pair Colorizer
 * IntelliSense for CSS class names in HTML
 * Code Spell Checker
 * Node.js Extension Pack

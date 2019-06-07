@@ -5,7 +5,7 @@
   "publisher": "OrangeLabs",
   "author": "Grant Visser",
   "repository": "https://github.com/Grant-Visser/Girlcode-JavaScript-Workshop-Extensions",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.30.0"
   },

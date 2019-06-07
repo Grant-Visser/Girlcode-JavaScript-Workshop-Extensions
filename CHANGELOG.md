@@ -6,6 +6,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [v1.0.1]
+
 - Modifies gitignore to discard binaries
 - Corrects spelling of bracket - thanks @BrandonG
 

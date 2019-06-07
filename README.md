@@ -1,8 +1,21 @@
 # README
 
-This package will install the extensions required for Girlcode 2019's Javascript workshop
+This package will install the extensions required for the Girlcode Javascript workshop
 
-## Building the extensions
+## This extension pack contains
+
+* vsCode Icons
+* Prettier
+* JavaScript code snippets
+* Visual Studio IntelliCode
+* Brakcet Pair Colorizer
+* IntelliSense for CSS class names in HTML
+* Code Spell Checker
+* Node.js Extension Pack
+* :emojisense: 👍
+* SmoothType
+
+## Building the extension on your local environment
 
 - <https://code.visualstudio.com/api/working-with-extensions/publishing-extension>
 

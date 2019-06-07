@@ -6,9 +6,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-- Nothing
+## [v1.0.0]
 
-## v0.1.0
+- Release to visual studio code marketplace
+- Updates readme with packages in the extension
+
+## [v0.1.0]
 
 - Fix - Changes dependency on vsCode version to work with vsCode v1.30 and above to reduce update issues
 - Added - Smoothtype

@@ -5,6 +5,7 @@ All notable changes to the "girlcode-javascript-workshop-extensions" extension p
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Unreleased]
+- Modifies gitignore to discard binaries
 
 ## [v1.0.0]
 
